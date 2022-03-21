@@ -1,5 +1,5 @@
 ### Greetings🖖
-### Estudante de engenharia elétrica(CEFET/RJ) e Análise e Desenvolvimento de Sistmeas(SENAC)
+### Estudante de Engenharia Elétrica(CEFET/RJ) e Análise e Desenvolvimento de Sistmeas(SENAC)
 
 <div align="center">
   <a href="https://github.com/RafaelTheodoroCampos/RafaelTheodoroCampos">
